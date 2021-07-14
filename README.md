@@ -1,1 +1,1 @@
-# mynlog
+# myblog
